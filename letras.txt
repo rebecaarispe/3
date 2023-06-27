@@ -2,7 +2,7 @@ Esto es la cabecera con cambios
 A
 B
 C
-D
+d
 E
 F
 G
